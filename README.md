@@ -25,7 +25,7 @@ L'utilisateur entre un texte. Le modèle prédit la suite du texte en se basant 
 > **Entrée** : Un jour, un petit robot décida de...  
 > **Sortie** : ... partir à l’aventure pour découvrir le monde, malgré les risques et les mystères qui l'attendaient.
 
-## Objectif
+## Objectif de projet
 Comprendre et démontrer un cas concret de Self-Supervised Learning appliqué au traitement automatique du langage naturel (NLP) avec GPT-2.
 
 ---
