@@ -8,6 +8,16 @@ sdk_version: "3.50.2"
 app_file: app.py
 pinned: false
 ---
+## 🎥 Démonstration Vidéo
+
+Cliquez sur l'image ci-dessous pour regarder la vidéo de démonstration sur YouTube :
+
+[![Regarder la vidéo](https://img.youtube.com/vi/XSRaZlfsaI8/0.jpg)](https://youtu.be/XSRaZlfsaI8?si=Ew5cAPxf-c-kd15Y)
+
+## 🚀 Tester le modèle en ligne
+
+👉 [Accéder à l'application sur Hugging Face Spaces](https://huggingface.co/spaces/Buberintwari/gpt2-fr-generateur)
+
 
 # Générateur de texte en français avec GPT-2
 
